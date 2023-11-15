@@ -9,4 +9,4 @@ def insertion_sort(array):
 array = [40, 30, 50, 10, 20]
 print("Array before the Insertion Sort:", array)
 sorted_array = insertion_sort(array)
-print("Array after the Insertion Sort:", sorted_array)
+print("The array after  Insertion Sort:", sorted_array)
